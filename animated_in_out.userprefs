@@ -1,17 +1,18 @@
-﻿<Properties StartupItem="animated_in_out/animated_in_out.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="animated_in_out/MainActivity.cs">
+﻿<Properties StartupConfiguration="{675F3079-C8A0-48F6-902A-A00738D6FACC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="animated_in_out/FirstActivity.cs">
     <Files>
-      <File FileName="animated_in_out/MainActivity.cs" Line="23" Column="23" />
-      <File FileName="animated_in_out/FirstActivity.cs" Line="10" Column="10" />
-      <File FileName="animated_in_out/SecondActivity.cs" Line="1" Column="1" />
-      <File FileName="animated_in_out/ThirdActivity.cs" Line="18" Column="18" />
+      <File FileName="animated_in_out/MainActivity.cs" Line="34" Column="1" />
+      <File FileName="animated_in_out/SecondActivity.cs" Line="26" Column="26" />
+      <File FileName="animated_in_out/ThirdActivity.cs" Line="19" Column="14" />
+      <File FileName="animated_in_out/FirstActivity.cs" Line="26" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <AuthorInfo Name="PFJ" Email="" Copyright="PFJ" Company="" Trademark="" />
-  <MonoDevelop.Ide.ItemProperties.animated__in__out MonoForAntroid.PreferredDevice="Nexus 4" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.animated__in__out PreferredExecutionTarget="Android.192.168.69.101:5555" MonoForAntroid.PreferredDevice="Nexus 4" />
 </Properties>
